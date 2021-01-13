@@ -14,6 +14,8 @@ def get_season(league_id, season_id, swid, espn_s2):
   # Iterate through matchups 
   print ("Season: ", season_id)
   for iter, matchup in zip(range(len(json_resp['schedule'])), json_resp['schedule']):
+
+    # Print week number and headers 
     if (iter % 5 == 0):
       if (iter / 5 == 13): 
         print ("\nPlayoff Round 1")
@@ -24,21 +26,29 @@ def get_season(league_id, season_id, swid, espn_s2):
       else:
         print ("\nWeek ", int(iter / 5 + 1))
         print ("{:<10} {:<10} {:<10} {:<10} {:<10} {:<15} {:<10} {:<10} {:<10}".format("Matchup", "Away", "Away TD", "Home", "Home TD", "  ", "Away", "Home", "Change?")) 
+
+    # Find home and away points from JSON data
     away_points = matchup['away']['totalPoints']
     home_points = matchup['home']['totalPoints']
     result = True if home_points > away_points else False 
 
+    # Find home and away TDs from JSON data
     away_tds =  matchup['away']['cumulativeScore']['scoreByStat']['4']['score']
     home_tds = matchup['home']['cumulativeScore']['scoreByStat']['4']['score']
 
+    # Calculated adjusted points using home and away TDs
     adj_away_points = away_points + away_tds * 2
     adj_home_points = home_points + home_tds * 2
+
+    # Check if the result of the matchup changed
     new_result = True if adj_home_points > adj_away_points else False
+
+    # Print in tabular format
     if (new_result != result): 
       print ("{:<10} {:<10} {:<10} {:<10} {:<10} {:<15} {:<10} {:<10} {:<10}".format(iter, round(away_points,2), int(away_tds),round(home_points, 2), int(home_tds), "AFTER ADJ", round(adj_away_points, 2),  round(adj_home_points,2), "CHANGE"))
     else:
       print ("{:<10} {:<10} {:<10} {:<10} {:<10} {:<15} {:<10} {:<10} {:<10}".format(iter, round(away_points,2), int(away_tds),round(home_points, 2), int(home_tds), "AFTER ADJ", round(adj_away_points, 2),  round(adj_home_points,2), "    "))
-      # print(iter, "\t", format(away_points, '.2f'), "\t", round(home_points,2), "\t**AFTER ADJ**\t", round(adj_away_points,2), "\t", round(adj_home_points,2))
+
 def main():
 
   # League Info
@@ -52,9 +62,6 @@ def main():
   # Iterate through seasons
   for season in season_id:
     get_season(league_id, season, swid, espn_s2)
-
-
-
 
 if __name__ == '__main__':
   main()
