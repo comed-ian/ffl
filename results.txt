@@ -1,0 +1,242 @@
+Season:  2019
+
+Week  1
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+0          181.16     2          106.8      2          AFTER ADJ       185.16     110.8                
+1          143.22     3          88.3       2          AFTER ADJ       149.22     92.3                 
+2          146.2      1          163.34     0          AFTER ADJ       148.2      163.34               
+3          172.82     3          136.9      4          AFTER ADJ       178.82     144.9                
+4          144.72     1          118.62     3          AFTER ADJ       146.72     124.62               
+
+Week  2
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+5          129.66     2          121.62     4          AFTER ADJ       133.66     129.62               
+6          147.12     1          110.96     0          AFTER ADJ       149.12     110.96               
+7          139.3      3          169.28     2          AFTER ADJ       145.3      173.28               
+8          126.7      3          100.76     3          AFTER ADJ       132.7      106.76               
+9          110.62     0          95.64      1          AFTER ADJ       110.62     97.64                
+
+Week  3
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+10         115.28     0          136.24     3          AFTER ADJ       115.28     142.24               
+11         175.24     2          155.06     3          AFTER ADJ       179.24     161.06               
+12         155.6      1          119.94     2          AFTER ADJ       157.6      123.94               
+13         108.04     2          139.72     2          AFTER ADJ       112.04     143.72               
+14         147.78     2          153.56     3          AFTER ADJ       151.78     159.56               
+
+Week  4
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+15         170.48     2          121.22     0          AFTER ADJ       174.48     121.22               
+16         104.2      0          128.3      1          AFTER ADJ       104.2      130.3                
+17         98.08      3          89.88      0          AFTER ADJ       104.08     89.88                
+18         90.7       0          171.38     2          AFTER ADJ       90.7       175.38               
+19         84.8       0          177.58     0          AFTER ADJ       84.8       177.58               
+
+Week  5
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+20         190.42     0          62.54      0          AFTER ADJ       190.42     62.54                
+21         147.2      1          136.22     2          AFTER ADJ       149.2      140.22               
+22         216.9      3          107.02     0          AFTER ADJ       222.9      107.02               
+23         102.64     1          166.84     5          AFTER ADJ       104.64     176.84               
+24         126.32     3          150.56     1          AFTER ADJ       132.32     152.56               
+
+Week  6
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+25         143.62     3          122.74     4          AFTER ADJ       149.62     130.74               
+26         115.5      1          133.06     0          AFTER ADJ       117.5      133.06               
+27         157.4      3          114.64     0          AFTER ADJ       163.4      114.64               
+28         120.5      2          130.02     2          AFTER ADJ       124.5      134.02               
+29         88.52      0          121.72     0          AFTER ADJ       88.52      121.72               
+
+Week  7
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+30         100.96     0          130.62     1          AFTER ADJ       100.96     132.62               
+31         116.86     1          106.36     0          AFTER ADJ       118.86     106.36               
+32         98.32      0          64.64      1          AFTER ADJ       98.32      66.64                
+33         140.66     5          140.72     2          AFTER ADJ       150.66     144.72     CHANGE    
+34         77.52      0          64.14      1          AFTER ADJ       77.52      66.14                
+
+Week  8
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+35         147.3      0          158.36     3          AFTER ADJ       147.3      164.36               
+36         129.08     2          109.16     2          AFTER ADJ       133.08     113.16               
+37         134.12     3          90.08      3          AFTER ADJ       140.12     96.08                
+38         119.12     3          166.3      3          AFTER ADJ       125.12     172.3                
+39         122.46     3          173.9      3          AFTER ADJ       128.46     179.9                
+
+Week  9
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+40         117.56     0          139.92     5          AFTER ADJ       117.56     149.92               
+41         154.58     3          74.76      0          AFTER ADJ       160.58     74.76                
+42         148.16     2          161.3      1          AFTER ADJ       152.16     163.3                
+43         138.74     2          105.8      2          AFTER ADJ       142.74     109.8                
+44         155.04     1          113.64     3          AFTER ADJ       157.04     119.64               
+
+Week  10
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+45         145.24     0          125.38     0          AFTER ADJ       145.24     125.38               
+46         134.88     1          107.14     3          AFTER ADJ       136.88     113.14               
+47         147.72     3          115.88     2          AFTER ADJ       153.72     119.88               
+48         155.36     3          141.96     0          AFTER ADJ       161.36     141.96               
+49         88.42      0          96.22      1          AFTER ADJ       88.42      98.22                
+
+Week  11
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+50         180.08     4          93.48      1          AFTER ADJ       188.08     95.48                
+51         101.86     0          136.42     3          AFTER ADJ       101.86     142.42               
+52         152.54     3          91.36      1          AFTER ADJ       158.54     93.36                
+53         106.86     3          100.62     1          AFTER ADJ       112.86     102.62               
+54         134.64     1          155.8      2          AFTER ADJ       136.64     159.8                
+
+Week  12
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+55         121.56     1          138.92     2          AFTER ADJ       123.56     142.92               
+56         80.32      3          54.68      0          AFTER ADJ       86.32      54.68                
+57         126.68     1          149.06     5          AFTER ADJ       128.68     159.06               
+58         133.14     3          97.8       1          AFTER ADJ       139.14     99.8                 
+59         143.94     0          114.6      2          AFTER ADJ       143.94     118.6                
+
+Week  13
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+60         94.08      1          101.52     0          AFTER ADJ       96.08      101.52               
+61         148.1      2          156.96     3          AFTER ADJ       152.1      162.96               
+62         173.32     4          130.78     2          AFTER ADJ       181.32     134.78               
+63         97.08      2          84.7       1          AFTER ADJ       101.08     86.7                 
+64         113.3      1          116.48     2          AFTER ADJ       115.3      120.48               
+
+Playoff Round 1
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+65         293.1      3          292.6      6          AFTER ADJ       299.1      304.6      CHANGE    
+66         309.3      4          220.78     8          AFTER ADJ       317.3      236.78               
+67         313.46     4          255.4      2          AFTER ADJ       321.46     259.4                
+68         254.62     2          229.52     2          AFTER ADJ       258.62     233.52               
+69         227.22     2          259.64     2          AFTER ADJ       231.22     263.64               
+
+Playoff Round 2
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+70         230.96     1          239.48     2          AFTER ADJ       232.96     243.48               
+71         240.42     3          233.88     6          AFTER ADJ       246.42     245.88               
+72         277.42     4          286.78     2          AFTER ADJ       285.42     290.78               
+73         244.08     3          250.16     4          AFTER ADJ       250.08     258.16               
+74         268.12     1          210.66     2          AFTER ADJ       270.12     214.66               
+Season:  2020
+
+Week  1
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+0          142.4      2          124.7      2          AFTER ADJ       146.4      128.7                
+1          124.44     3          135.98     4          AFTER ADJ       130.44     143.98               
+2          136.06     2          126.1      0          AFTER ADJ       140.06     126.1                
+3          149.42     1          155.54     1          AFTER ADJ       151.42     157.54               
+4          158.4      3          132.06     4          AFTER ADJ       164.4      140.06               
+
+Week  2
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+5          178.1      4          110.08     2          AFTER ADJ       186.1      114.08               
+6          178.08     1          120.6      1          AFTER ADJ       180.08     122.6                
+7          154.12     4          121.16     1          AFTER ADJ       162.12     123.16               
+8          144.72     5          129.0      1          AFTER ADJ       154.72     131.0                
+9          115.68     1          164.2      2          AFTER ADJ       117.68     168.2                
+
+Week  3
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+10         91.88      1          133.96     2          AFTER ADJ       93.88      137.96               
+11         115.3      2          107.3      4          AFTER ADJ       119.3      115.3                
+12         127.02     3          185.24     4          AFTER ADJ       133.02     193.24               
+13         159.9      5          142.04     2          AFTER ADJ       169.9      146.04               
+14         71.48      1          169.1      0          AFTER ADJ       73.48      169.1                
+
+Week  4
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+15         141.18     4          192.58     4          AFTER ADJ       149.18     200.58               
+16         130.0      2          172.88     3          AFTER ADJ       134.0      178.88               
+17         171.12     2          95.8       1          AFTER ADJ       175.12     97.8                 
+18         100.84     2          104.5      1          AFTER ADJ       104.84     106.5                
+19         97.22      2          147.2      0          AFTER ADJ       101.22     147.2                
+
+Week  5
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+20         72.32      0          120.98     3          AFTER ADJ       72.32      126.98               
+21         119.66     4          120.44     0          AFTER ADJ       127.66     120.44     CHANGE    
+22         139.94     0          151.12     1          AFTER ADJ       139.94     153.12               
+23         127.1      2          144.66     3          AFTER ADJ       131.1      150.66               
+24         138.02     2          109.22     2          AFTER ADJ       142.02     113.22               
+
+Week  6
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+25         168.4      2          130.84     4          AFTER ADJ       172.4      138.84               
+26         111.3      4          140.38     2          AFTER ADJ       119.3      144.38               
+27         99.32      2          126.94     1          AFTER ADJ       103.32     128.94               
+28         102.78     1          87.2       0          AFTER ADJ       104.78     87.2                 
+29         101.54     3          112.7      0          AFTER ADJ       107.54     112.7                
+
+Week  7
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+30         143.76     1          132.96     2          AFTER ADJ       145.76     136.96               
+31         134.98     0          112.8      3          AFTER ADJ       134.98     118.8                
+32         111.26     2          161.92     3          AFTER ADJ       115.26     167.92               
+33         109.52     4          143.58     3          AFTER ADJ       117.52     149.58               
+34         77.22      0          105.5      1          AFTER ADJ       77.22      107.5                
+
+Week  8
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+35         125.48     3          114.14     0          AFTER ADJ       131.48     114.14               
+36         170.94     4          97.56      0          AFTER ADJ       178.94     97.56                
+37         124.92     3          98.42      2          AFTER ADJ       130.92     102.42               
+38         125.54     5          142.14     3          AFTER ADJ       135.54     148.14               
+39         158.0      1          83.96      2          AFTER ADJ       160.0      87.96                
+
+Week  9
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+40         132.96     3          158.3      2          AFTER ADJ       138.96     162.3                
+41         144.32     3          108.64     2          AFTER ADJ       150.32     112.64               
+42         87.2       2          127.4      3          AFTER ADJ       91.2       133.4                
+43         170.14     2          118.88     4          AFTER ADJ       174.14     126.88               
+44         123.5      4          68.9       0          AFTER ADJ       131.5      68.9                 
+
+Week  10
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+45         160.16     2          128.68     2          AFTER ADJ       164.16     132.68               
+46         120.92     0          46.68      1          AFTER ADJ       120.92     48.68                
+47         76.26      2          95.06      2          AFTER ADJ       80.26      99.06                
+48         106.1      1          102.92     1          AFTER ADJ       108.1      104.92               
+49         109.0      2          113.52     1          AFTER ADJ       113.0      115.52               
+
+Week  11
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+50         150.34     1          119.98     2          AFTER ADJ       152.34     123.98               
+51         150.56     2          120.64     3          AFTER ADJ       154.56     126.64               
+52         121.44     2          134.24     3          AFTER ADJ       125.44     140.24               
+53         115.46     2          139.5      2          AFTER ADJ       119.46     143.5                
+54         140.02     1          97.32      1          AFTER ADJ       142.02     99.32                
+
+Week  12
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+55         114.14     4          187.22     4          AFTER ADJ       122.14     195.22               
+56         102.48     3          156.2      0          AFTER ADJ       108.48     156.2                
+57         112.46     1          144.38     1          AFTER ADJ       114.46     146.38               
+58         119.44     1          96.3       1          AFTER ADJ       121.44     98.3                 
+59         97.5       2          127.08     1          AFTER ADJ       101.5      129.08               
+
+Week  13
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+60         121.06     1          110.22     3          AFTER ADJ       123.06     116.22               
+61         129.46     1          127.64     0          AFTER ADJ       131.46     127.64               
+62         155.4      3          134.32     1          AFTER ADJ       161.4      136.32               
+63         117.76     0          113.02     1          AFTER ADJ       117.76     115.02               
+64         121.08     3          127.8      4          AFTER ADJ       127.08     135.8                
+
+Playoff Round 1
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+65         244.66     1          252.76     5          AFTER ADJ       246.66     262.76               
+66         363.78     4          267.9      4          AFTER ADJ       371.78     275.9                
+67         264.22     4          256.68     3          AFTER ADJ       272.22     262.68               
+68         329.44     4          246.38     4          AFTER ADJ       337.44     254.38               
+69         247.88     5          215.62     3          AFTER ADJ       257.88     221.62               
+
+Playoff Round 2
+Matchup    Away       Away TD    Home       Home TD                    Away       Home       Change?   
+70         328.66     8          326.24     3          AFTER ADJ       344.66     332.24               
+71         271.32     4          244.66     0          AFTER ADJ       279.32     244.66               
+72         250.24     5          301.24     8          AFTER ADJ       260.24     317.24               
+73         241.34     3          323.16     6          AFTER ADJ       247.34     335.16               
+74         228.38     2          323.9      4          AFTER ADJ       232.38     331.9                
